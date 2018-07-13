@@ -1,0 +1,220 @@
+{
+    "team":[
+        {
+            "id":1,
+            "name": "Ti Biscuit",
+            "joueurs":[
+                {
+                    "id":1,
+                    "name":"Leonardo",
+                    "age":19,
+                    "class": "Demon Hunter"
+                },
+                {
+                    "id":2,
+                    "name":"John",
+                    "age":22,
+                    "class": "Warrior"
+                },
+                {
+                    "id":3,
+                    "name":"Jessie",
+                    "age":18,
+                    "class": "Hunter"
+                },
+                {
+                    "id":4,
+                    "name":"Carl",
+                    "age":39,
+                    "class": "Drood"
+                },
+                {
+                    "id":5,
+                    "name":"Daryl",
+                    "age":34,
+                    "class": "Monk"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name": "Ti Males",
+            "joueurs":[
+                {
+                    "id":1,
+                    "name":"Leonardo",
+                    "age":19,
+                    "class": "Demon Hunter"
+                },
+                {
+                    "id":2,
+                    "name":"John",
+                    "age":22,
+                    "class": "Warrior"
+                },
+                {
+                    "id":3,
+                    "name":"Jessie",
+                    "age":18,
+                    "class": "Hunter"
+                },
+                {
+                    "id":4,
+                    "name":"Carl",
+                    "age":39,
+                    "class": "Drood"
+                },
+                {
+                    "id":5,
+                    "name":"Daryl",
+                    "age":34,
+                    "class": "Monk"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name": "Bad Boy Le Port",
+            "joueurs":[
+                {
+                    "id":1,
+                    "name":"Leonardo",
+                    "age":19,
+                    "class": "Demon Hunter"
+                },
+                {
+                    "id":2,
+                    "name":"John",
+                    "age":22,
+                    "class": "Warrior"
+                },
+                {
+                    "id":3,
+                    "name":"Jessie",
+                    "age":18,
+                    "class": "Hunter"
+                },
+                {
+                    "id":4,
+                    "name":"Carl",
+                    "age":39,
+                    "class": "Drood"
+                },
+                {
+                    "id":5,
+                    "name":"Daryl",
+                    "age":34,
+                    "class": "Monk"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name": "Ti Femelle",
+            "joueurs":[
+                {
+                    "id":1,
+                    "name":"Leonardo",
+                    "age":19,
+                    "class": "Demon Hunter"
+                },
+                {
+                    "id":2,
+                    "name":"John",
+                    "age":22,
+                    "class": "Warrior"
+                },
+                {
+                    "id":3,
+                    "name":"Jessie",
+                    "age":18,
+                    "class": "Hunter"
+                },
+                {
+                    "id":4,
+                    "name":"Carl",
+                    "age":39,
+                    "class": "Drood"
+                },
+                {
+                    "id":5,
+                    "name":"Daryl",
+                    "age":34,
+                    "class": "Monk"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "name": "From Scratch",
+            "joueurs":[
+                {
+                    "id":1,
+                    "name":"Leonardo",
+                    "age":19,
+                    "class": "Demon Hunter"
+                },
+                {
+                    "id":2,
+                    "name":"John",
+                    "age":22,
+                    "class": "Warrior"
+                },
+                {
+                    "id":3,
+                    "name":"Jessie",
+                    "age":18,
+                    "class": "Hunter"
+                },
+                {
+                    "id":4,
+                    "name":"Carl",
+                    "age":39,
+                    "class": "Drood"
+                },
+                {
+                    "id":5,
+                    "name":"Daryl",
+                    "age":34,
+                    "class": "Monk"
+                }
+            ]
+        },
+        {
+            "id":6,
+            "name": "Method",
+            "joueurs":[
+                {
+                    "id":1,
+                    "name":"Leonardo",
+                    "age":19,
+                    "class": "Demon Hunter"
+                },
+                {
+                    "id":2,
+                    "name":"John",
+                    "age":22,
+                    "class": "Warrior"
+                },
+                {
+                    "id":3,
+                    "name":"Jessie",
+                    "age":18,
+                    "class": "Hunter"
+                },
+                {
+                    "id":4,
+                    "name":"Carl",
+                    "age":39,
+                    "class": "Drood"
+                },
+                {
+                    "id":5,
+                    "name":"Daryl",
+                    "age":34,
+                    "class": "Monk"
+                }
+            ]
+        }
+    ]
+}

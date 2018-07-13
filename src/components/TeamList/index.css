@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.teamList h1{
+    text-align:center;
+}
+
+body{
+    background-color:#FAFAFA;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.team-card{
+    background-color:#fff;
+    padding:10px;
+
+}
+
+.cards{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    width: 1000px;
+    margin: 0 auto;
+}
